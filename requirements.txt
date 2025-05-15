@@ -1,0 +1,6 @@
+pip==25.1.1
+pytest==8.3.5
+requests==2.32.3
+urllib3==2.4.0
+allure-pytest==2.14.1
+pydantic==2.11.4
